@@ -74,13 +74,13 @@ keywords: React
 
 
 #### 系列文章
-[React技术栈+Express+Mongodb实现个人博客]
-[React技术栈+Express+Mongodb实现个人博客 -- Part 1 博客页面展示]
-[React技术栈+Express+Mongodb实现个人博客 -- Part 2 后台管理页面]
-[React技术栈+Express+Mongodb实现个人博客 -- Part 3 Express + Mongodb创建Server端]
-[React技术栈+Express+Mongodb实现个人博客 -- Part 4 使用Webpack打包博客工程]
-[React技术栈+Express+Mongodb实现个人博客 -- Part 5 使用Redux]
-React技术栈+Express+Mongodb实现个人博客 -- Part 6 部署
+- [React技术栈+Express+Mongodb实现个人博客](http://geeksai.com/2017/10/26/react-blog/)
+- [React技术栈+Express+Mongodb实现个人博客 -- Part 1 博客页面展示](http://geeksai.com/2017/10/27/react-part1/)
+- [React技术栈+Express+Mongodb实现个人博客 -- Part 2 后台管理页面](http://geeksai.com/2017/10/28/react-part2/)
+- [React技术栈+Express+Mongodb实现个人博客 -- Part 3 Express + Mongodb创建Server端](http://geeksai.com/2017/10/29/react-part3/)
+- [React技术栈+Express+Mongodb实现个人博客 -- Part 4 使用Webpack打包博客工程](http://geeksai.com/2017/10/30/react-part4/)
+- [React技术栈+Express+Mongodb实现个人博客 -- Part 5 使用Redux](http://geeksai.com/2017/10/31/react-part5/)
+- React技术栈+Express+Mongodb实现个人博客 -- Part 6 部署
 
 
 
