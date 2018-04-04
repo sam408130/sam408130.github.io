@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: Sam Blog
+keywords: Sam Ding
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+2013年毕业于UNSW，Signal Processing专业
 
-仰慕「优雅编码的艺术」。
+2013 ~ 2016年就职于科大讯飞清华大学实验室，从事异构网络模型以及排序算法应用研究
 
-坚信熟能生巧，努力改变人生。
+2016至今，front-end developer
 
 ## 联系
 

@@ -4,8 +4,8 @@
 baseurl:
 url: http://geeksai.com
 date_format: "ordinal"
-title: Sam`s Blog
-subtitle: "爱coding，爱生活"
+title: Sam Blog
+subtitle: "If you can measure it, you can improve it"
 description: "Sam的个人博客"
 keywords: Sam, python, 前端, 区块链
 timezone: Asia/Beijing

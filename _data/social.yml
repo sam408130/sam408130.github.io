@@ -1,27 +1,23 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: sam408130
+  url: https://github.com/sam408130
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+- sitename: 简书
+  name: SamDing
+  url: https://www.jianshu.com/u/a6249cca0aaf
 
 - sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+  name: sam
+  url: https://www.linkedin.com/in/%E8%B5%9B-%E4%B8%81-28b37b146/
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: Sam Blog
+  url: http://geeksai.com
 
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+- sitename: 邮箱
+  name: gmail
+  url: sam408130@gmail.com
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+- sitename: 联系方式
+  name: QQ
+  url: 197329984
