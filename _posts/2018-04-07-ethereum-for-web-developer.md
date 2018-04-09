@@ -43,3 +43,4 @@ Ethereum提供了web3.js框架方便开发者使用javascript处理逻辑层和b
 
 接下来我会通过一个投票应用来完整的介绍基于Ethereum的去中心化应用的开发流程，敬请期待。
 
+[原文地址](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)

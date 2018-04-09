@@ -264,3 +264,6 @@ index.js中通过abi和合约地址实例化了一个`VotingContract`，变可�
 去体验一下投票吧。。。
 
 下一节，在part2中，我将把合约部署到以太坊公共的测试网络中，这样全世界的人在测试网络下变可以使用你的Voting Dapp。同时，下一节将使用[truffle framework](https://github.com/ConsenSys/truffle)进行合约的开发，不再使用node console一步步的执行，敬请期待。。。
+
+
+[原文地址](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
