@@ -6,6 +6,8 @@ description: web开发者看以太坊
 keywords: Ethereum, 区块链
 ---
 
+原文地址： [Ethereum for web developers, Mahesh Murthy](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+
 学习[Ethereum blockchain platform](https://ethereum.org/)有一段时间了，越看越兴奋，根本停不下来。关于Ethereum的学习资料，包括文章、视频、文档等有很多，但无法满足系统化的学习需求，有点懵逼。还有一点是，Ethereum发展很快，很多文档或资料已经过时了。经过一段时间的学习和总结，对Ethereum的整体概念和运作方式有了基础的了解。本篇文章会以web开发者的角度介绍一下Ethereum，作为开发者，如何基于以太坊，创建去中心化的应用？
 
 如果你是一个web开发人员，你会很了解web应用的整体架构：
@@ -41,6 +43,15 @@ Ethereum提供了web3.js框架方便开发者使用javascript处理逻辑层和b
 
 这里只是介绍了以太坊的基础知识，很多知识点没有展开，后续学习过程中有了更深刻的理解，我会及时补充。
 
-接下来我会通过一个投票应用来完整的介绍基于Ethereum的去中心化应用的开发流程，敬请期待。
+接下来我会通过一个投票应用来完整的介绍基于Ethereum的去中心化应用的开发流程:
 
-[原文地址](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+代码地址：https://github.com/sam408130/ethereum_voting_dapp
+
+* [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 1](http://geeksai.com/2018/04/08/full-stack-voting-part1/)
+* [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 2](http://geeksai.com/2018/04/09/full-stack-voting-part2/)
+* [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 3](http://geeksai.com/2018/04/10/full-stack-voting-part3/)
+
+
+
+
+

@@ -6,6 +6,8 @@ description: Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 1
 keywords: Ethereum, 区块链
 ---
 
+原文地址： [Full Stack Hello World Voting Ethereum Dapp Tutorial, Mahesh Murthy](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+
 [上一篇文章](http://geeksai.com/2018/04/07/ethereum-for-web-developer/)中，整体介绍了Ethereum platform和web application的对比。作为程序员，最好的学习方法便是在新的框架下写一个Hello World工程，来熟悉整个框架的开发，测试，部署环境及方法。本篇文章将通过一个投票的应用，介绍基于web的Dapp开发流程。
 
 这个应用很简单，会初始化几个候选人，所有人都可以给他们投票，并将每个人的总票数显示出来。在开发过程中，不会细说语法问题，只是初步熟悉一下Ethereum Dapp的逻辑编写，打包编译，及部署流程。
@@ -266,4 +268,5 @@ index.js中通过abi和合约地址实例化了一个`VotingContract`，变可�
 下一节，在part2中，我将把合约部署到以太坊公共的测试网络中，这样全世界的人在测试网络下变可以使用你的Voting Dapp。同时，下一节将使用[truffle framework](https://github.com/ConsenSys/truffle)进行合约的开发，不再使用node console一步步的执行，敬请期待。。。
 
 
-[原文地址](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+本节项目代码：https://github.com/sam408130/ethereum_voting_dapp/tree/master/chapter1
+
