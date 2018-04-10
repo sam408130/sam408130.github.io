@@ -6,8 +6,6 @@ description: Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 2
 keywords: Ethereum, 区块链
 ---
 
-原文地址： [Full Stack Hello World Voting Ethereum Dapp Tutorial, Mahesh Murthy](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f)
-
 在[Part 1](http://geeksai.com/2018/04/08/full-stack-voting-dapp/)中，我在ganache blockchain的开发环境上创建了一个简单的投票Dapp，本节我将把Dapp部署到真正的blockchain上。Ethereum有多个公共的test blockchain，一条main blockchain。
 
 * Test Blockchain
@@ -359,5 +357,7 @@ webpack: Compiled successfully.
 
 ![屏幕快照 2018-04-09 下午10.55.28.png](https://upload-images.jianshu.io/upload_images/1224641-30c933283fe942f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-本节项目代码：https://github.com/sam408130/ethereum_voting_dapp/tree/master/chapter2
+本节项目代码：[https://github.com/sam408130/ethereum_voting_dapp/tree/master/chapter2](https://github.com/sam408130/ethereum_voting_dapp/tree/master/chapter2)
+
+原文地址： [Full Stack Hello World Voting Ethereum Dapp Tutorial, Mahesh Murthy](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f)
 

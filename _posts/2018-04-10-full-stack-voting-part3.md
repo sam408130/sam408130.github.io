@@ -6,7 +6,6 @@ description: Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 3
 keywords: Ethereum, 区块链
 ---
 
-原文地址： [Full Stack Hello World Voting Ethereum Dapp Tutorial, Mahesh Murthy](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-3-331c2712c9df)
 
 在[Part 1](http://geeksai.com/2018/04/08/full-stack-voting-dapp/)中我们创建了一个简单的voting dapp，并在本地部署了该合约。在[Part 2](http://geeksai.com/2018/04/09/full-stack-voting-part2/)我们使用了Truffle Framework创建，编译，重新部署了投票应用，且将合约部署到了公共的Ethereum测试网络。本章节，我将丰富一下合约内容，以便覆盖更多的内容：
 
@@ -458,6 +457,8 @@ npm run dev
 
 ![屏幕快照 2018-04-10 下午4.17.07.png](https://upload-images.jianshu.io/upload_images/1224641-f4bca79ecc490762.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-本节项目代码：https://github.com/sam408130/ethereum_voting_dapp/tree/master/chapter3
+本节项目代码：[https://github.com/sam408130/ethereum_voting_dapp/tree/master/chapter3](https://github.com/sam408130/ethereum_voting_dapp/tree/master/chapter3)
 
+
+原文地址： [Full Stack Hello World Voting Ethereum Dapp Tutorial, Mahesh Murthy](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-3-331c2712c9df)
 
